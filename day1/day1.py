@@ -138,17 +138,74 @@ left(180)
 
 forward(200)
 
-pendown()
-
-forward(900)
 penup()
+
 goto(0,0)
-left(90)
-forward(60)
+left(180)
+forward(290)
+right(90)
 
 pendown()
 
+color("yellow")
+
+forward(230)
 left(90)
+
+forward(230)
+left(90)
+
+forward(230)
+left(90)
+
+forward(230)
+left(90)
+
+forward(230)
+left(90)
+
+color("pink")
+right(29)
+forward(123)
+color("blue")
+left(55)
+forward(126)
+
+penup()
+
+goto(200,0)
+
+right(111)
+
+left(85)
+forward(600)
+
+pendown()
+
+color("green")
+
+right(90)
+forward(79)
+
+left(90)
+forward(30)
+
+left(90)
+forward(79)
+right(90)
+
+color("green")
+
+forward(300000)
+right(90)
+right(90)
+forward(30000000)
+
+penup()
+
+goto(0,0)
+
+
 
 
 
