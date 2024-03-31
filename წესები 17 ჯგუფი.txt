@@ -1,0 +1,63 @@
+                                                წესები
+
+
+parentheses - ფრჩხილები 
+quotation marks - ბრჭყალები
+
+item = "bike"
+item არის ცვლადის სახელი
+bike არის ცვლადის მნიშვნელობა ხოლო = არის მიმნიჭებელი ოპერატორი
+
+variable name - ცვლადის სახელი
+variable value - ცვლადის მნიშვნელობა
+
+variables - ცვლადი
+print("hello lazare")
+print("hello gigachad")
+გამხსნელი ფრჩხილი (
+დამხურავი ფრჩხილი )
+()
+გამხსნელი ბრჭყალი "
+დამხურავი ბრჭყალი "
+
+print("hello")
+print(10)
+დაპრინტეთ თქვენი სახელი და გვარი
+დაპრინტეთ თქვენი ასაკი
+print(gabriel)
+name = "gabrieli"
+
+print(name)
+
+item = "bike"
+item არის ცვლადის სახელი
+bike არის ცვლადის მნიშვნელობა ხოლო = არის მიმნიჭებელი ოპერატორი
+item : 'bike'
+
+variable name - ცვლადის სახელი
+variable value - ცვლადის მნიშვნელობა
+variables - ცვლადი
+
+string - ბრჭყალებში მოქცეული ტექტსი
+valid - სწორი
+
+statements - ბრძანება
+to create a variable - ცვლადის შექმნა
+
+integer - მთელი რიცხვი
+
+integer - მთელი რიცხვი
+writing - წერა
+running - გაშვება
+debugging - გასწორება
+parentheses - ფრჩხილები ()
+quotation marks - ბრჭყალები ""
+
+equal sign - ტოლობის ნიშანი =
+characters - სიმბოლო
+line by line - ხაზ-ხაზ
+
+
+
+
+                                           დასრულდა
