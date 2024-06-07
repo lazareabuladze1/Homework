@@ -1,0 +1,16 @@
+friend_name1 = input("შეიყვანე შენი მეგობრის სახელი: ")
+friend_name2 = input("შეიყვანე შენი მეგობრის სახელი: ")
+friend_name3 = input("შეიყვანე შენი მეგობრის სახელი: ")
+friend_name4 = input("შეიყვანე შენი მეგობრის სახელი: ")
+
+mother_Neme = input("შეიყვანე შენი დედის სახელი: ")
+father_name = input("შეიყვანე შენი მამის სახელი: ")
+
+fav_food = input("ჩაწერე შენი საყვარელი საჭმელი: ")
+print(friend_name1)
+print(friend_name2)
+print(friend_name3)
+print(friend_name4)
+print(mother_Neme)
+print(father_name)
+print(fav_food)
